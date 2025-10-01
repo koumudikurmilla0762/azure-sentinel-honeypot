@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.code-workspace
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Node / misc
+node_modules/
+
+# Data: 
+exports/*.csv
+exports/*.xlsx
+
+# Secrets
+*.env
+secrets/
